@@ -1,6 +1,6 @@
 -- Skyblox_Hub
 
-key is: none
+-- key is: none
 
 
 local library = loadstring(game:HttpGet("https://pastebin.com/raw/SKZjdjdj"))();
